@@ -1,0 +1,2 @@
+Para actualizar la versión la versión de GoldHEN que correrá nuestro host simplemente borre (goldhen.bin) 
+y luego copie el binario .bin de la versión nueva a la carpeta actual y renombrelo a (goldhen.bin)
